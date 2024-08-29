@@ -31,10 +31,10 @@ val keystoreProperties = Properties().apply {
 
 android {
     compileSdk = 34
-    namespace = "com.libremobileos.updater"
+    namespace = "com.genesisos.updater"
 
     defaultConfig {
-        applicationId = "com.libremobileos.updater"
+        applicationId = "com.genesisos.updater"
         minSdk = 30
         targetSdk = 34
         versionCode = 1
